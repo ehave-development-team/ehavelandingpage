@@ -9,9 +9,7 @@ export default function About(){
             <Image className="mb-10 md:mr-16 " src={'/girlinofficesmall.jpg'} width={400} height={200} alt={'woman on laptop'} />
            <div > <p className="text-cyan-500 font-bold mb-5">ABOUT</p>
             <p className="text-3xl font-bold tracking-wide mb-5">Discover Our Story</p>
-            <p className="font-light">As the proud owner of our business, I am passionate about providing exceptional services
-            that cater to the unique needs of our valued customers. What sets us apart is our unwavering commitment to
-             delivering personalized experiences.</p></div>
+            <p className="font-light">Invest in the transformative potential of data and the mathematical model of humanity, poised to revolutionize our lives. This cutting-edge endeavor promises not only improved well-being but also the key to unlocking a happier future. By harnessing the power of data, investors have the opportunity to be part of a groundbreaking journey towards a healthier and more fulfilling existence.</p></div>
         </div>
         </div>
     )
