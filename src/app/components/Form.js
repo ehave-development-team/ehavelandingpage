@@ -5,9 +5,9 @@ export default function Form(){
         <div className="mx-4 lg:float-right lg:clear-left lg:mx-8 -mt-14 flex-col justify-center items-center px-5 py-5 bg-teal-900 text-white max-w-sm">
             <p className="text-2xl font-bold text-center mt-5 mb-5">
                 Schedule an<br></br>
-                Appointment</p>
-            <p className="text-center mb-8">Here, let visitors know what will happen when
-             they complete your form.</p>
+                Demo</p>
+            <p className="text-center mb-8">Unlock the full potential of AI with your data by filling out the form and unleashing the transformative capabilities that will enhance your data.
+             </p>
 
              <form >
                 <input className="w-full px-3 py-3 rounded-md mt-2 mb-2" type="text" required placeholder="First name"></input>
