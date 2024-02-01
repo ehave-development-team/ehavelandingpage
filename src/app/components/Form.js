@@ -17,7 +17,7 @@ export default function Form(){
                 <select name="Appointment" id="Appointment" className="w-full text-black px-3 py-3 rounded-md mt-2 mb-2" >
                 <option className="!max-w-min" value="1">Type of Demo</option>
                 <option className="!max-w-min" value="2">Collecting Data</option>
-                <option className="!max-w-min" value="3">AI Powered</option>
+                <option className="!max-w-min" value="3">AI Powered Data</option>
                 </select>
                 <button className="block bg-cyan-500 w-full px-3 py-3 rounded-md mt-2">Submit</button>
              </form>
