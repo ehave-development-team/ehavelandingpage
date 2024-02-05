@@ -11,7 +11,7 @@ export default function BenefitsParent(){
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/13b0f11a-multor-benefit1-icon.svg',
             heading: 'Personalized Experience',
-            description: "Customize your appointments to suit your needs, with options for preferred dates, times, and service providers."
+            description: "Patient outcomes can be optimized through predictive analytics, allowing for proactive and timely interventions."
         },
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/c32dd90d-multor-benefit3-icon.svg',
