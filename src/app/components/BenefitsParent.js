@@ -6,7 +6,7 @@ export default function BenefitsParent(){
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/8ab92ea8-multor-benefit2-icon.svg',
             heading : 'Health Through Data',
-            description: "By harnessing health data, professionals can identify trends, patterns, and risk factors, leading to more informed decision-making. Data-driven insights enable personalized healthcare approaches, tailoring treatments and interventions to individual needs. Additionally, data facilitates early detection of diseases, enhancing preventive measures and reducing the overall healthcare burden. Patient outcomes can be optimized through predictive analytics, allowing for proactive and timely interventions. Overall, leveraging health data promotes efficiency, accuracy, and innovation in healthcare, contributing to better patient care and improved public health outcomes."
+            description: "By harnessing health data, professionals can identify trends, patterns, and risk factors, leading to more informed decision-making. Data-driven insights enable personalized healthcare approaches, tailoring treatments and interventions to individual needs. Additionally, data facilitates early detection of diseases, enhancing preventive measures and reducing the overall healthcare burden."
         },
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/13b0f11a-multor-benefit1-icon.svg',
