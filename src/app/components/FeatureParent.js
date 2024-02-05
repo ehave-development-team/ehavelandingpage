@@ -5,8 +5,8 @@ export default function FeatureParent(){
     const featureData = [
         {
             imgPath:'/group.jpg',
-            heading:'Personalized Service Packages',
-            description:'Experience the ultimate value with our personalized service packages, offering tailored solutions to meet your individual needs.'
+            heading:'Collecting Data',
+            description:'Through the systematic collection of health data, preventive measures can be improved, and early detection of diseases becomes more effective. Moreover, data gathering supports evidence-based decision-making, leading to more efficient healthcare delivery.'
 
         },
         {
