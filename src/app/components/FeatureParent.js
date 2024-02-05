@@ -12,7 +12,7 @@ export default function FeatureParent(){
         {
             imgPath:'/tablet.jpg',
             heading:'Cognitive Video Games',
-            description:'Collecting data for cognitive games involves systematically gathering and analyzing information generated during the use of games designed to stimulate cognitive functions. These games, often employed for brain training or therapeutic purposes, generate valuable data on users' cognitive performance, response times, and decision-making patterns. By collecting and analyzing this data, developers and researchers can gain insights into cognitive strengths and weaknesses, adapt game difficulty levels, and refine the design to optimize cognitive benefits. This data-driven approach allows for personalized and effective cognitive training, contributing to the ongoing improvement and customization of cognitive games for enhanced mental acuity and overall cognitive well-being.'
+            description:'Collecting data for cognitive games involves systematically gathering and analyzing information generated during the use of games designed to stimulate cognitive functions. These games, often employed for brain training or therapeutic purposes, generate valuable data on users cognitive performance, response times, and decision-making patterns. By collecting and analyzing this data, developers and researchers can gain insights into cognitive strengths and weaknesses, adapt game difficulty levels, and refine the design to optimize cognitive benefits. This data-driven approach allows for personalized and effective cognitive training, contributing to the ongoing improvement and customization of cognitive games for enhanced mental acuity and overall cognitive well-being.'
 
         },
         {
