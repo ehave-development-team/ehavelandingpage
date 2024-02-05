@@ -15,8 +15,8 @@ export default function BenefitsParent(){
         },
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/c32dd90d-multor-benefit3-icon.svg',
-            heading: 'Stress-Free Organization',
-            description: " Keep track of all your appointments in one place, receiving timely reminders for a worry-free experience."
+            heading: 'Healthy Outcomes',
+            description: " Overall, leveraging health data promotes efficiency, accuracy, and innovation in healthcare, contributing to better patient care and improved public health outcomes."
         }
     ]
 
