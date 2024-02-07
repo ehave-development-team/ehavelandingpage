@@ -17,8 +17,8 @@ export default function FeatureParent(){
         },
         {
             imgPath:'/pot.jpg',
-            heading:'Timely Appointment Reminders',
-            description:'Never miss an important appointment again! Benefit from our timely appointment reminders that keep you informed and prepared.'
+            heading:'Deciphering Data with AI',
+            description:'Ehave has groundbreaking integration of AI in healthcare promises to drive innovation and improve health outcomes on a global scale.'
 
         }
     ]
